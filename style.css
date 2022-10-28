@@ -1,0 +1,13 @@
+.fa {
+    cursor: pointer;
+  }
+  
+  #btn-change-mode {
+    padding: 0;
+  }
+  
+  .list-group-item {
+    border-right: none;
+    border-left: none;
+  }
+  
